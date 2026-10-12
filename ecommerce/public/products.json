@@ -1,0 +1,10 @@
+[
+  { "id": 1, "name": "Wireless Headphones", "category": "Electronics", "price": 2499, "inStock": true,  "icon": "🎧", "description": "Bluetooth over-ear headphones with 30-hour battery life." },
+  { "id": 2, "name": "Smart Watch", "category": "Electronics", "price": 3999, "inStock": true,  "icon": "⌚", "description": "Tracks steps, heart rate and sleep with a bright AMOLED display." },
+  { "id": 3, "name": "Running Shoes", "category": "Fashion", "price": 1899, "inStock": true,  "icon": "👟", "description": "Lightweight breathable shoes with extra cushioning." },
+  { "id": 4, "name": "Backpack", "category": "Fashion", "price": 999, "inStock": false, "icon": "🎒", "description": "Water-resistant 25L backpack with a laptop compartment." },
+  { "id": 5, "name": "Coffee Maker", "category": "Home", "price": 3299, "inStock": true,  "icon": "☕", "description": "Brews up to 6 cups with a reusable filter and auto shut-off." },
+  { "id": 6, "name": "Desk Lamp", "category": "Home", "price": 799, "inStock": true,  "icon": "💡", "description": "LED lamp with three brightness levels and a flexible neck." },
+  { "id": 7, "name": "Yoga Mat", "category": "Fitness", "price": 699, "inStock": true,  "icon": "🧘", "description": "Non-slip 6mm mat, easy to roll and carry." },
+  { "id": 8, "name": "Water Bottle", "category": "Fitness", "price": 499, "inStock": false, "icon": "🥤", "description": "Insulated steel bottle that keeps drinks cold for 24 hours." }
+]
